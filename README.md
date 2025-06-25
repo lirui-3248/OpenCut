@@ -1,27 +1,4 @@
-<img src="apps/web/public/logo.png" align="left" width="130" height="130">
-
-<div align="right">
-
-
-
-# OpenCut (prev AppCut)
-### A free, open-source video editor for web, desktop, and mobile.
-</div>
-
-## Why?
-
-- **Privacy**: Your videos stay on your device
-- **Free features**: Every basic feature of CapCut is paywalled now
-- **Simple**: People want editors that are easy to use - CapCut proved that
-
-## Features
-
-- Timeline-based editing
-- Multi-track support
-- Real-time preview
-- No watermarks or subscriptions
-- Analytics provided by [Databuddy](https://www.databuddy.cc?utm_source=opencut), 100% Anonymized & Non-invasive.
-
+、
 ## Project Structure
 
 - `apps/web/` – Main Next.js web application
